@@ -3,6 +3,16 @@
   "desc": "영상 속 연예인 뷰티템 · 제품번호로 검색하세요",
   "logo": "logo.png",
   "notice": "아래 링크로 구매시 쿠팡 파트너스 수수료를 받습니다.",
-  "items": [],
+  "items": [
+    {
+      "no": 1,
+      "name": "전소미 애교살 펜슬 (키스미 언더아이 듀얼 펜슬 02)",
+      "url": "https://link.coupang.com/a/hnUCH2QxFY",
+      "img": "img/001.jpg",
+      "video": "celeb05",
+      "coupang_product": "6833697396",
+      "coupang_item": "16229781020"
+    }
+  ],
   "contact": "sineru47@naver.com"
 }
